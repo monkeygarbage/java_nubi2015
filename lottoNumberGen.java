@@ -1,3 +1,8 @@
+/**
+ * Author: monkeyfilo@yahoo.com (ccaoile)
+ * Note: Email me to collaborate algorithms 
+ * /
+
 package com.ely;
 
 import java.util.ArrayList;
